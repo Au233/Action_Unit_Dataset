@@ -13,7 +13,7 @@
 ## [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)
 - video : 564 (554 subjects) **only 2D**
 - image : 2.8M frames
-- AU : 12 lables(1,2,4,6,7,10,12,15,23,24,25, 26)
+- AU : 12 lables(1, 2,4, 6, 7, 10, 12, 15, 23, 24,25, 26)
 
 ## 
 
